@@ -1,0 +1,179 @@
+/*this page is done by Name:Sara Yasser     ID:20140140 */
+
+* {
+	box-sizing: border-box;
+}
+
+@font-face {
+	font-family: "BahijTheSansArabic";
+	src: url(../fonts/ArbFONTS-Bahij_TheSansArabic-Bold.ttf);
+}
+
+
+.container {
+	width: 1920px;
+	height: auto;
+}
+
+/***	Start red flag Style 	***/
+.Red-flag {
+	position: absolute;
+	width: 288px;
+	height: 60px;
+	background-color: rgb( 250, 50, 94);
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	text-align: center;
+	padding-top: 16px;
+	margin-top: -88px;
+	margin-left: 351px;
+}
+
+#flagImg {
+	width: 48px;
+	height: 28px;
+	float: right;
+	padding-right: 11px;
+}
+
+#flag-link {
+	font-size: 20.15px;
+	color: rgb( 255, 255, 255);
+	font-weight: bold;
+	line-height: 1.419;
+	text-decoration: none;
+	font-family: "BahijTheSansArabic";
+
+}
+
+/***	End red flag Style 	***/
+
+/****	Start content Style 	****/
+.Content {
+	width: 1224px;
+	height: 3100px;
+	margin-left: 330px;
+	position: absolute;
+}
+
+#phoneImg {
+	width: 1216px;
+	height: 490px;
+
+}
+
+#titel_e7gzly {
+	font-size: 36px;
+	font-family: "BahijTheSansArabic";
+	color: rgb( 75, 68, 183);
+	font-weight: bold;
+	line-height: 1.389;
+	text-align: right;
+	text-align: justify;
+	direction: rtl;
+
+}
+
+#icon-minute {
+	width: 1224px;
+	height: 70px;
+	margin-left: 330px;
+	margin-top: 650px;
+	display: inline-block;
+}
+
+.oneMinAgo {
+	font-size: 24px;
+	font-family: "BahijTheSansArabic";
+	color: rgba( 0, 0, 0, 0.4);
+	float: right;
+	font-weight: bold;
+
+}
+
+/*start icons style*/
+
+.icons {
+	position: absolute;
+	margin: 0 auto;
+	width: 200px;
+	margin-top: 110px;
+	margin-left: 900px;
+	font-family: FontAwesome;
+	display: inline-block;
+}
+
+.icons > ul > li > i {
+	color: rgba(0, 0, 0, 0.75);
+	/* RGBA Color (Alternative Transparency) */
+	opacity: 0.5;
+	/* Opacity (Transparency) */
+}
+
+.icons > ul > li {
+	display: inline-block;
+	margin-left: 10px;
+
+}
+
+#oneMinIcons {
+	width: 300px;
+	display: inline-block;
+	font-size: 28px;
+	list-style-type: none;
+	top: 830px;
+	margin: 0 auto;
+	font-family: FontAwesome;
+}
+
+.icons > ul > li > i:hover {
+	color: #663399;
+	opacity: 1;
+}
+
+/*end icons style*/
+
+.text {
+	font-size: 24px;
+	font-family: "BahijTheSansArabicPlain";
+	color: rgb( 154, 154, 154);
+	line-height: 1.667;
+	text-align: justify;
+	direction: rtl;
+	position: absolute;
+	left: 330px;
+	width: 1222px;
+	height: 984px;
+}
+
+.lin2 {
+	/*background-color: rgb( 25, 25, 25);*/
+	position: absolute;
+	left: 340px;
+	top: 2200px;
+	width: 1223px;
+	height: 2px;
+	z-index: 114;
+}
+
+.shahedTitel {
+	width: 400px;
+	font-size: 36px;
+	font-family: "BahijTheSansArabic";
+	color: rgb( 75, 68, 183);
+	font-weight: bold;
+	line-height: 1.389;
+	text-align: right;
+	top: 1350px;
+	left: 1150px;
+	position: relative;
+}
+
+.videos-container {
+	margin-top: 1400px;
+	margin-left: 330px;
+	width: 1224px;
+	height: 388px;
+}
+
+/****	end content Style 	****/

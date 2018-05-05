@@ -1,0 +1,121 @@
+
+@font-face {
+  
+  font-family: ar;
+    src: url(../fonts/Bahij_TheSansArabic-Plain.ttf);
+
+}
+/**{
+	color: white;
+}
+*/
+
+.thanks{
+
+	color: white;
+	font-size: 48px;
+	margin-left: 150px;
+	margin-right: 150px;
+	 font-family: ar;
+}
+
+#img1{
+	width: 450px;
+	height:236px;
+	margin-left: 75px;
+	padding-top: 64px;
+	
+}
+
+.div{
+
+	background-color: rgb( 75, 68, 183 );
+	width: 600px;
+	height: 628px;
+	margin-left: 300px;
+	margin-top: -10px;
+
+
+}
+
+
+#logoArea{
+
+	background-color: white;
+	width: 122px;
+	height:120px;
+	margin-left: 245px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius:10px;
+
+
+}
+
+
+#logo{
+
+	width: 82px;
+	height: 88px;
+	padding-top: 17px; 
+	margin-left: 20px;
+}
+
+
+
+#t{
+	margin-left: 260px;
+
+
+}
+.p{
+	color: rgb( 193, 193, 193 );
+	font-family: ar;
+	margin-bottom: 10px;
+}
+#pa{
+	padding:35px 75px;
+	width: 450px;
+	height: 230px;
+	margin-left: 300px;	
+	text-align: center;
+}
+
+
+#under{
+
+	height: 158px;
+	margin-top: 0px;
+	text-align: center;
+	color: white;
+}
+
+#ta{
+	color: white;
+	text-align: center;
+	padding-top: 36px;
+	font-family: ar;
+}
+#line{
+	border-color: red;
+	border-style: solid;
+	margin-left: 290px;
+	height: 0px;
+	width:15px;
+	border-bottom:hidden; 
+	margin-top:15px;
+}
+
+#social
+{
+	margin-top: 10px;
+}
+
+#twitter{
+	margin-right:5px;
+	margin-left:5px;
+}
+
+i
+{
+	color:white;
+}

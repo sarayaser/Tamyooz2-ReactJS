@@ -1,0 +1,49 @@
+/*this page is done by Name:Sara Yasser     ID:20140140 */
+
+@font-face{
+
+  font-family: ar;
+  src:url(../fonts/Bahij_TheSansArabic-Plain.ttf);
+}
+
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+.phoneImg
+{
+	width: 600px;
+	height: 480px;
+}
+
+.divLine{
+	margin-top: 20px;
+	background-color: #e5e5e5;
+	width:490px;
+	display: block;
+	margin: 20px auto 0px;
+}
+
+.phoneDiv{
+	font-family: ar;
+	width: 600px;
+	height: 776px;
+	font-size: 36px;
+	color:rgb( 75, 68, 183 );
+	box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.2);
+	margin-top: 60px;
+
+}
+.phoneTxt{
+	text-align: right;
+	margin-right: 57px;
+	margin-left: 57px;
+}
+.min{
+	text-align: right;
+	margin-right: 57px;
+	color:  #999999;
+	font-size: 24px;
+	font-family: ar;
+}

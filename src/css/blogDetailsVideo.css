@@ -1,0 +1,48 @@
+/*this page is done by Name:Sara Yasser 	ID:20140140  Using pure html, css, js */
+
+* {
+	box-sizing: border-box;
+}
+
+/*Start video with text*/
+
+
+.video-text {
+	width: 300px;
+	height: 384px;
+	display: inline-block;
+	box-shadow: 1px 1px 1px 1px #bababa;
+
+}
+
+.video {
+	width: 290px;
+	height: 236px;
+	margin-bottom: 100px;
+	margin: 0px 0px 100px 5px;
+}
+
+.textUnderVideo {
+	width: 256px;
+	height: 70px;
+	font-size: 24px;
+	font-family: "BahijTheSansArabic";
+	color: rgb( 75, 68, 183);
+	font-weight: bold;
+	line-height: 1.458;
+	text-align: right;
+	margin-top: -100px;
+	overflow: hidden;
+	margin-left: 5px;
+}
+
+.oneMinAgo1 {
+	font-size: 24px;
+	font-family: "BahijTheSansArabic";
+	color: rgba( 0, 0, 0, 0.4);
+	float: right;
+	font-weight: bold;
+	margin-right: 40px;
+}
+
+/*end video with text*/

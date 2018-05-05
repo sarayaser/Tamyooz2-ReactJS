@@ -1,1 +1,0 @@
-# Tamyooz2-ReactJS
